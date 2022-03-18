@@ -1,0 +1,7 @@
+local commands = {
+    "crash",
+    "paint",
+    "regen",
+    "takepads"
+    }
+    return commands
